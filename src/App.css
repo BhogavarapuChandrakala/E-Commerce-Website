@@ -10,7 +10,7 @@
  --mainYellow:#ffa400;
 }
 .bg-slate-900{
-  background-color: #1F2937;
+  background-color: #1d6ddc;
 }
 .bg-slate-800{
   background-color: #2D3748;
@@ -19,7 +19,7 @@
   font-size:x-large;
 }
 .cardbg{
-  background-color: #2D3748;
+  background-color: #0f58d7;
 }
 .paddinglr{
   width: 100%;
@@ -31,7 +31,7 @@
   height: fit-content;
 }
 .hover:hover{
-  color: #009ffd;
+  color: #165e87;
 }
 .menubar{
   border:#979393 1px solid;
